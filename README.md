@@ -1,6 +1,16 @@
 # Smart-Door-Lock-System
 Smart Door Lock System With Facial Recognition and RFID
 
+Components:
+- Raspberry Pi 3 (1)
+- Raspberry Pi Camera (1)  
+- Solenoid Door Lock (1)
+- Ultrasonic Sensor (1)
+- RFID Reader (1)
+- RFID Card (1)
+- Jumper Cables 
+- Adjustable Power Adapter / Power Supply 8-12 volt, 3-5 A (1)
+
 Code Information:
 - (Face Recognition Sampling.py) = Captures face data and stores it in a designated folder.
 - (Face Recognition Smart Door Lock.py) = Leverages the LBPH face recognizer for face identification and door unlocking.
