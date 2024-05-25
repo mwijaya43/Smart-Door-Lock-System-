@@ -1,7 +1,8 @@
 # Smart-Door-Lock-System
 Smart Door Lock System With Facial Recognition and RFID
-![Preview]
-(https://github.com/mwijaya43/Smart-Door-Lock-System-/blob/main/Project%20Visual.jpg](https://raw.githubusercontent.com/mwijaya43/Smart-Door-Lock-System-/main/Project%20Visual.jpg)
+
+![Preview](https://raw.githubusercontent.com/mwijaya43/Smart-Door-Lock-System-/blob/main/Project%20Visual.jpg)
+
 
 Components:
 - Raspberry Pi 3 (1)
