@@ -2,12 +2,15 @@
 Smart Door Lock System With Facial Recognition and RFID
 
 Project Visual
+
 ![Project Visual](https://github.com/mwijaya43/Smart-Door-Lock-System-/assets/162684142/da14cd8c-f2f1-4e8b-a7b0-e9547167f7ad)
 
 RFID Lock Demo:
+
 https://github.com/mwijaya43/Smart-Door-Lock-System-/assets/162684142/a23e73ea-e181-447b-829a-dbc0618f9770
 
 Ultrasonic Sensor Demo:
+
 https://github.com/mwijaya43/Smart-Door-Lock-System-/assets/162684142/d5b72208-3062-463b-b2dd-959590fbfdd3
 
 Components:
